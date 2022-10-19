@@ -1,0 +1,17 @@
+{
+    "name": "Emisora",
+    "short_name": "Emisora",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "red",
+    "theme_color": "red",
+    "orientation" : "portrait",
+    "icons": [
+        {
+            "src": "./img/favicon.png",
+            "type":"image/png",
+            "sizes": "72x72"
+        }
+    ]
+
+}

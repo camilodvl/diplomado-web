@@ -1,0 +1,15 @@
+#reproductor{
+    display: none;
+}
+
+#signal{
+    color: red;
+}
+.navbar{
+    background: #013d56;
+
+}
+
+.navbar a{
+    color: white;
+}
